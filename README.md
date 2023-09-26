@@ -17,6 +17,8 @@ This README provides an overview of algorithms and their different representatio
 ## Algorithm
 An algorithm is a set of step-by-step instructions or a defined computational procedure that takes input, processes it, and produces an output.
 
+Algorithms are used in computer science, mathematics, and various other fields to solve problems efficiently.
+
 ## Representations
 
 ### Flowchart
@@ -50,8 +52,6 @@ print("The sum is:", result)
 Here's a simple example of adding two numbers using all three representations:
 
 - **Algorithm**: Add two numbers.
-- **Flowchart**:
-  ![Addition Flowchart](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/LampFlowchart.svg/300px-LampFlowchart.svg.png)
 
 - **Pseudo Code**:
   ```
