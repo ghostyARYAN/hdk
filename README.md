@@ -1,4 +1,4 @@
----
+
 
 # Algorithm Representation
 
@@ -71,4 +71,4 @@ Here's a simple example of adding two numbers using all three representations:
 
 These representations help in understanding and communicating algorithms at different levels of detail, from a high-level overview to an actual implementation in a specific programming language.
 
----
+
