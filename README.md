@@ -51,7 +51,7 @@ Here's a simple example of adding two numbers using all three representations:
 
 - **Algorithm**: Add two numbers.
 - **Flowchart**:
-  ![Addition Flowchart](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Basic_flowchart_elements.svg/300px-Basic_flowchart_elements.svg.png)
+  ![Addition Flowchart](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/LampFlowchart.svg/300px-LampFlowchart.svg.png)
 
 - **Pseudo Code**:
   ```
