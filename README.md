@@ -11,9 +11,6 @@
   - [Source Code](#source-code)
 - [Examples](#examples)
 
-## Introduction
-This README provides an overview of algorithms and their different representations, including flowcharts, pseudo code, and source code. Algorithms are essential in computer science and problem-solving, and understanding how to represent them is crucial.
-
 ## Algorithm
 An algorithm is a set of step-by-step instructions or a defined computational procedure that takes input, processes it, and produces an output.
 
